@@ -1,0 +1,2 @@
+# ArrowFunctionPrac
+Created with CodeSandbox
